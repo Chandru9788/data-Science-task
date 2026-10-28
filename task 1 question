@@ -1,0 +1,17 @@
+1. Create a NumPy array containing the numbers 10, 20, 30, 40, 50.
+   2. Create an array containing integers from 1 to 20.
+3. Create an array of 10 zeros.
+
+   4. Create a 3 × 4 array filled with ones.
+
+Use a two-dimensional shape.
+   5. Create a 2 × 3 array where every element is 7.
+6. Create an array containing 10 equally spaced values between 0 and 100.
+7. Create a 4 × 4 identity matrix.
+8. Create an array of even numbers from 2 to 50.
+
+a = np.arange(1, 13)
+
+Reshape the array into a 3 × 4 matrix.
+Reshape it into a 4 × 3 matrix.
+Reshape it into a 2 × 2 × 3 array.
